@@ -1,0 +1,237 @@
+total 584K
+-rw-r--r-- 1 qhe0310 student    0 Jan 18 11:15 answers.txt
+-rw-r--r-- 1 qhe0310 student  45K Jan 18 10:52 const.txt
+-rw-r--r-- 1 qhe0310 student 514K Jan 23  2015 scarlet.txt
+-rw-r--r-- 1 qhe0310 student 8.5K Jan 17 15:00 usdeclar.txt
+
+
+872 const.txt
+9120 scarlet.txt
+176 usdeclar.txt
+ 
+
+ find . -type f | xargs wc -l
+  9120 ./scarlet.txt
+   872 ./const.txt
+     5 ./answers.txt
+   176 ./usdeclar.txt
+ 10173 total
+
+find . -size +50k
+./scarlet.txt
+
+file const.txt
+const.txt: ASCII English text
+
+tar -cf - . | md5sum
+ffd5fddcc9d56d030d90b75b7aa0a43a  -
+
+ df -k
+Filesystem               1K-blocks          Used    Available Use% Mounted on
+/dev/sda2                944785812      33586372    863200364   4% /
+none                      98884376            24     98884352   1% /dev/shm
+hpc-nfs0-10g.hpc.arizona.edu:/gsfs1/rsgrps
+                     1543570980864 1199372361728 344198619136  78% /rsgrps
+hpc-nfs0-10g.hpc.arizona.edu:/gsfs2/pbs
+                       35970351104    6861442048  29108909056  20% /pbs
+hpc-nfs0-10g.hpc.arizona.edu:/gsfs2/Bright_cm_shared
+                       35970351104    6861442048  29108909056  20% /cm/shared
+hpc-nfs0-10g.hpc.arizona.edu:/gsfs1/bio5
+                        4294967296     410201088   3884766208  10% /bio5
+hpc-nfs0-10g.hpc.arizona.edu:/gsfs2/unsupported
+                       35970351104    6861442048  29108909056  20% /unsupported
+hpc-nfs0-10g.hpc.arizona.edu:/gsfs3/extra
+                      540897443840   47354973184 493542470656   9% /extra
+hpc-nfs0-10g.hpc.arizona.edu:/gsfs3/xdisk
+                       10737418240             0  10737418240   0% /xdisk
+hpc-nfs0-10g.hpc.arizona.edu:/gsfs2/home
+                       35970351104    6861442048  29108909056  20% /home
+grep -i 'judge' const.txt scarlet.txt usdeclar.txt | wc -l
+22
+
+grep -l 'human' scarlet.txt const.txt usdeclar.txt
+scarlet.txt
+usdeclar.txt
+
+grep -inR 'scarlet' scarlet.txt
+1:﻿The Project Gutenberg EBook of The Scarlet Letter, by Nathaniel Hawthorne
+9:Title: The Scarlet Letter
+22:*** START OF THIS PROJECT GUTENBERG EBOOK THE SCARLET LETTER ***
+36:                          THE SCARLET LETTER.
+72:sketch of official life, introductory to THE SCARLET LETTER, has
+112:                          THE SCARLET LETTER.
+158:XXIII. THE REVELATION OF THE SCARLET LETTER      302
+245:                 INTRODUCTORY TO “THE SCARLET LETTER.”
+1153:This rag of scarlet cloth,—for time and wear and a sacrilegious moth
+1162:interested me. My eyes fastened themselves upon the old scarlet
+1177:In the absorbing contemplation of the scarlet letter, I had hitherto
+1198:referred to the story entitled “THE SCARLET LETTER”; and it should be
+1201:original papers, together with the scarlet letter itself,—a most
+1224:but majestic figure had imparted to me the scarlet symbol, and the
+1254:yet to come, I doubt whether the tale of “The Scarlet Letter” would
+1566:    intended to publish, along with “The Scarlet Letter,” several
+1616:                          THE SCARLET LETTER.
+1842:they beheld her for the first time,—was that SCARLET LETTER, so
+1869:Come along, Madam Hester, and show your scarlet letter in the
+2008:an infant on her arm, and the letter A, in scarlet, fantastically
+2014:that it sent forth a cry; she turned her eyes downward at the scarlet
+2030:universal observation, the wearer of the scarlet letter was at length
+2150:lighting up its shame; with the scarlet token of infamy on her breast;
+2304:take the scarlet letter off thy breast.”
+2333:terrors in their imagination, and seemed to derive its scarlet hue
+2347:her, that the scarlet letter threw a lurid gleam along the dark
+2381:of such deep interest to the wearer of the scarlet letter. He was
+2469:forefinger on the scarlet letter, which forthwith seemed to scorch
+2501:beheld the bale-fire of that scarlet letter blazing at the end of our
+2598:the scarlet letter! How is it, Hester? Doth thy sentence bind thee to
+2622:other purpose than to reveal the scarlet letter on her breast. Perhaps
+2649:young and pure would be taught to look at her, with the scarlet letter
+2723:forth along the pathway that led townward; and, discerning the scarlet
+2782:and the most sombre hue; with only that one ornament,—the scarlet
+2863:the gaze of a new eye. When strangers looked curiously at the scarlet
+2888:felt or fancied, then, that the scarlet letter had endowed her with a
+2895:a lie, and that, if truth were everywhere to be shown, a scarlet
+2915:maiden glancing at the scarlet letter, shyly and aside, and quickly
+2927:about the scarlet letter which we might readily work up into a
+2928:terrific legend. They averred, that the symbol was not mere scarlet
+2960:strange, indeed! Man had marked this woman's sin by a scarlet letter,
+3183:was—shall we say it?—the scarlet letter on Hester's bosom! One day,
+3196:might never once be fixed upon the scarlet letter; but then, again, it
+3215:dancing up and down, like a little elf, whenever she hit the scarlet
+3259:and touched the scarlet letter.
+3361:her bosom. It was the scarlet letter in another form; the scarlet
+3369:represent the scarlet letter in her appearance.
+3376:“Behold, verily, there is the woman of the scarlet letter; and, of a
+3377:truth, moreover, there is the likeness of the scarlet letter running
+3384:infant pestilence,—the scarlet fever, or some such half-fledged angel
+3432:at the scarlet letter, which, being a new-comer in the country, he had
+3502:to the peculiar effect of this convex mirror, the scarlet letter was
+3603:at the scarlet little figure before him. “I profess, I have never seen
+3610:“Ay, indeed!” cried good old Mr. Wilson. “What little bird of scarlet
+3620:“I am mother's child,” answered the scarlet vision, “and my name is
+3632:such a child's mother must needs be a scarlet woman, and a worthy type
+3640:wearer of the scarlet letter, “there hath been much question
+3730:me too! See ye not, she is the scarlet letter, only capable of being
+3748:are, when that mother has but her child and the scarlet letter! Look
+4411:along the lines of the scarlet letter that decorated the maternal
+4453:Prynne the less miserable, think you, for that scarlet letter on her
+4805:Prynne, leading along little Pearl, in her scarlet garb, and pointing
+4806:her forefinger, first at the scarlet letter on her bosom, and then at
+4886:if the universe were gazing at a scarlet token on his naked breast,
+5284:scarlet letter on her breast, glittering in its fantastic embroidery,
+5336:sympathize,—that many people refused to interpret the scarlet A by
+5346:were resolute to accost her, she laid her finger on the scarlet
+5368:frailty; nay, more, they had begun to look upon the scarlet letter as
+5378:scarlet letter had the effect of the cross on a nun's bosom. It
+5431:held to be a deadlier crime than that stigmatized by the scarlet
+5485:The scarlet letter had not done its office.
+5566:yonder scarlet letter might be taken off your bosom. On my life,
+5606:The scarlet letter burned on Hester Prynne's bosom. Here was another
+5650:could have borne up, as thine has, beneath a burden like thy scarlet
+5711:“I have left thee to the scarlet letter,” replied Roger Chillingworth.
+5726:his life, he is in thy hands. Nor do I,—whom the scarlet letter has
+5837:Had seven long years, under the torture of the scarlet letter,
+5882:A letter,—the letter A,—but freshly green, instead of scarlet! The
+5920:what does this scarlet letter mean?—and why dost thou wear it on thy
+5956:Pearl's inevitable tendency to hover about the enigma of the scarlet
+5987:the minister's heart? And as for the scarlet letter, I wear it for the
+6003:“Mother,” said she, “what does the scarlet letter mean?”
+6008:investigations about the scarlet letter:—
+6039:the scarlet letter. But, partly that she dreaded the secret or
+6140:mother, the old dame said that this scarlet letter was the Black Man's
+6156:“Once in my life I met the Black Man!” said her mother. “This scarlet
+6235:to gathering violets and wood-anemones, and some scarlet columbines
+6291:He made a step nigher, and discovered the scarlet letter.
+6374:Hester, that wear the scarlet letter openly upon your bosom! Mine
+6466:rested on the scarlet letter. He would have released himself, but
+6508:only by his eyes, the scarlet letter need not burn into the bosom of
+6653:scarlet letter was her passport into regions where other women dared
+6731:So speaking, she undid the clasp that fastened the scarlet letter,
+7017:scarlet letter, so close upon the margin of the stream, that the gold
+7033:scarlet letter, and fastened it again into her bosom. Hopefully, but a
+7038:was the scarlet misery, glittering on the old spot! So it ever is,
+7060:her mouth, and kissed the scarlet letter too!
+7516:while, again, the scarlet letter brought her back from this twilight
+7534:kind of triumph. “Look your last on the scarlet letter and its
+7593:thou art clad in gray, and wearest the scarlet letter. But see,
+7772:scarlet letter enveloped its fated wearer; partly by her own reserve,
+7975:ventured on; to begin a conversation with the wearer of the scarlet
+8122:“Thy mother is yonder woman with the scarlet letter,” said the seaman.
+8148:about, who had often heard of the scarlet letter, and to whom it had
+8157:learning the purport of the scarlet letter, came and thrust their
+8181:sainted minister in the church! The woman of the scarlet letter in the
+8194:                 THE REVELATION OF THE SCARLET LETTER.
+8252:beside the scaffold of the pillory, with the scarlet letter still
+8313:Hester, holding little Pearl by the hand! And there was the scarlet
+8356:He again extended his hand to the woman of the scarlet letter.
+8421:moment, from grovelling down upon my face! Lo, the scarlet letter
+8441:before you! He bids you look again at Hester's scarlet letter! He
+8526:unhappy minister, a SCARLET LETTER—the very semblance of that worn by
+8553:guilt for which Hester Prynne had so long worn the scarlet letter.
+8570:character, when proofs, clear as the mid-day sunshine on the scarlet
+8625:physician's death, the wearer of the scarlet letter disappeared, and
+8630:the scarlet letter grew into a legend. Its spell, however, was still
+8644:enough to display a scarlet letter on her breast.
+8655:indications that the recluse of the scarlet letter was the object of
+8683:scarlet letter ceased to be a stigma which attracted the world's scorn
+8710:scarlet letter. And, after many, many years, a new grave was delved,
+8747:    page 262—removed an extra closing quote after 'scarlet letter too!'
+8756:End of Project Gutenberg's The Scarlet Letter, by Nathaniel Hawthorne
+8758:*** END OF THIS PROJECT GUTENBERG EBOOK THE SCARLET LETTER ***
+
+ head -n15 -q *.txt > foo.txt
+[qhe0310@login2 files]$ ls
+const.txt  foo.txt  scarlet.txt  usdeclar.txt
+[qhe0310@login2 files]$ cat foo.txt
+Provided by USConstitution.net
+------------------------------
+
+[Note: Repealed text is not noted in this version.  Spelling errors have been
+corrected in this version.  For an uncorrected, annotated version of the
+Constitution, visit http://www.usconstitution.net/const.html ]
+
+We the People of the United States, in Order to form a more perfect Union,
+establish Justice, insure domestic Tranquility, provide for the common
+defence, promote the general Welfare, and secure the Blessings of Liberty to
+ourselves and our Posterity, do ordain and establish this Constitution for the
+United States of America.
+
+Article 1.
+
+The Project Gutenberg EBook of The Scarlet Letter, by Nathaniel Hawthorne
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: The Scarlet Letter
+
+Author: Nathaniel Hawthorne
+
+Illustrator: Mary Hallock Foote
+             L. S. Ipsen
+
+                      Declaration of Independence
+
+                   [Adopted in Congress 4 July 1776]
+
+
+
+   The Unanimous Declaration of the Thirteen United States of America
+
+When, in the course of human events, it becomes necessary for one people to
+dissolve the political bands which have connected them with another, and to
+assume among the powers of the earth, the separate and equal station to
+which the laws of nature and of nature's God entitle them, a decent respect
+to the opinions of mankind requires that they should declare the causes
+which impel them to the separation.
+
+ wc -l foo.txt
+45 foo.txt
+
+If you don't use " -q" in the last command line to print first 15 lines, the head will print the files names, that will be more than 45. 
+
+rm foo.txt
+
