@@ -1,0 +1,811 @@
+    1  cd /rsgrps/bh_class
+    2  mkdir my-netid
+    3  ls
+    4  mkdir qhe0310
+    5  ls
+    6  qy3326812H!
+    7  ls
+    8  /rsgrps/bh_class/username
+    9  cd/rsgrps/bh_class/qhe0310
+   10  /rsgrps/bh_class/username
+   11  ssh qhe0310@hpc.arizona.edu
+   12  qhe0310@hpc.arizona.edu
+   13  ssh qhe0310@hpc.arizona.edu
+   14  cat .ssh/id_rsa.pub
+   15  ssh-keygen
+   16  cat .ssh/id_rsa.pub
+   17  ls
+   18  /rsgrps/bh_class/username
+   19  cd
+   20  cd.ssh
+   21  cd .ssh
+   22  cat id_rsa.pub
+   23  /rsgrps/bh_class/username
+   24  pw
+   25  pwd
+   26  ls
+   27  cat .ssh/id_rsa.pub 
+   28  ls
+   29  git clone git@github.com:hurwitzlab/biosys-analytics.git
+   30  cd biosys-analytics/
+   31  git remote add upstream https://github.com/hurwitzlab/biosys-analytics.git
+   32  git pull upstream master
+   33  ssh qhe0310@hpc.arizona.edu
+   34  w
+   35  q
+   36  env
+   37  -wl
+   38  --help
+   39  -- help
+   40  help
+   41  wc -l
+   42  m
+   43  man man
+   44  USER
+   45  $USER
+   46  ls
+   47  cd biosys-analytics/
+   48  ls
+   49  assignments/
+   50  ls
+   51  git pull upstream
+   52  git status
+   53  ls
+   54  cd lectures/
+   55  ls
+   56  03
+   57  03-unix-exercises/
+   58  open 03-unix-exercises/
+   59  git pull upstream master
+   60  ls
+   61  open assigments/01-unix-grad/01-unix-grad.txt
+   62  cat >food
+   63  cd..
+   64  cd ..
+   65  pwd
+   66  cd ..
+   67  pwd
+   68  clear
+   69  echo $PATH
+   70  ls -a
+   71  git pull upstream master
+   72  ls -lh
+   73  pwd
+   74  ls
+   75  env
+   76  clearcelaer
+   77  git hub pull up stream master
+   78  git hub pull up main stream master
+   79  git pull upstream master
+   80  pwd
+   81  ls
+   82  git pull upstream
+   83  .git pull upstream master
+   84  -- help
+   85  man man
+   86  pwd
+   87  cd biosys-analytics/
+   88  git pull upstream
+   89  git pull upstream master
+   90  ls
+   91  cd assignments/
+   92  ls
+   93  open 01-unix
+   94  p
+   95  ls
+   96  cd ..
+   97  ls
+   98  cd lectures/
+   99  ls
+  100  open 01-intro/
+  101  cd ..
+  102  ls
+  103  cd assignments/
+  104  ls
+  105  xdg-open 01-unix
+  106  q
+  107  pwd
+  108  cd ..
+  109  git pull upstream master
+  110  ls
+  111  cd assignments/
+  112  xdg-open 01-unix
+  113  pwd
+  114  gnome-open 01-unix
+  115  ls
+  116  xdg-open 01-unix
+  117  cd ..
+  118  ls
+  119  cd lectures/
+  120  ls
+  121  xdg-open 01-intro
+  122  ls
+  123  gnome-open 02-unix/
+  124  q
+  125  gnome-open 02-unix.pdf
+  126  man xdg-open
+  127  ls -lh
+  128  cd 01-intro/
+  129  pwd
+  130  ls
+  131  xdg-open 01-intro.pdf 
+  132  pwqqqcdcd;akcd
+  133  pwd
+  134  cd ..
+  135  git pull upstream master
+  136  ls
+  137  cd biosys-analytics/
+  138  git pull upstream master
+  139  ls
+  140  cd assignments/
+  141  ls
+  142  explorer 01-unix
+  143  gdp-open 01-unix
+  144  open 01-unix
+  145  explorer 01-unix
+  146  start 01-unix
+  147  start --help
+  148  w
+  149  w | head
+  150  w | awk 'NR>2' | head -5
+  151  w | awk 'NR>2' {print $1} | head -5
+  152  w | awk 'NR>2 {print $1}' | head -5
+  153  w | awk 'NR>2 {print $1}'
+  154  w | awk 'NR>2 {print $1}' |uniq
+  155  w | awk 'NR>2 {print $1}' | sort |uniq
+  156  w | awk 'NR>2 {print $1}' | sort |uniq | wc-1
+  157  w | awk 'NR>2 {print $1}' | sort |uniq | wc-l
+  158  w | awk 'NR>2 {print $1}' | sort |uniq | wc -l
+  159  program 2>err
+  160  program 1>out 2>err
+  161  pwd
+  162  grep 'oo'/usr/share/dict/words | head -5
+  163  wget ftp://ftp.imicrobe.us/biosys-analytics/exercises/unclustered-proteins.tgz
+  164  tar xvf uclusterd-proteins.tgz
+  165  cd uclustered-proteins
+  166  tar xvf uclustered-proteins.tgz
+  167  tar xvf unclustered-proteins.tgz
+  168  cd unclustered-proteins
+  169  grep '>' proteins.fa | head -5
+  170  cd ..
+  171  ls
+  172  explorer 01-unix
+  173  man man
+  174  open 01-unix
+  175  xdg-open --help
+  176  xdg-open 01-unix
+  177  ls
+  178  rm err
+  179  rm unclustered-proteins
+  180  rmdir unclustered-proteins
+  181  rmdirf unclustered-proteins
+  182  rmdir unclustered-proteins
+  183  rm -r unclustered-proteins
+  184  ls
+  185  rm unclustered-proteins.tgz 
+  186  ls
+  187  rm out
+  188  pwd
+  189  gdp-open 01-unix
+  190  xdg-open 01-unix
+  191  cd ..
+  192  cd assignments/
+  193  ls
+  194  cat 01-unix
+  195  cd 01-unix
+  196  ls
+  197  cat README.md 
+  198  cd..
+  199  cd ..
+  200  cd 01-unix-grad/
+  201  ls
+  202  cat 01-unix-grad.txt 
+  203  git pull upstream master
+  204  ls
+  205  cd biosys-analytics/
+  206  git pull upstream master
+  207  ls
+  208  cd assignments/
+  209  ls
+  210  cd 01-unix-grad/
+  211  ls
+  212  cat 01-unix-grad.txt 
+  213  cat README.md 
+  214  top
+  215  kill 11961
+  216  killall 11961
+  217  top
+  218  killall 13095
+  219  top
+  220  pidof qhe0310
+  221  cd~
+  222  cd ~
+  223  top
+  224  pidof qhe0310
+  225  p
+  226  top
+  227  q
+  228  ls
+  229  cd biosys-analytics/
+  230  ls
+  231  echo $assignments
+  232  cd ass
+  233  cd assignments/
+  234  ls
+  235  echo $ 01-unix
+  236  echo $ hello wworld
+  237  echo hello world
+  238  cd biosys-analytics/
+  239  git pull upstream master
+  240  ls
+  241  cd assignments/
+  242  ls
+  243  cd 01-unix
+  244  ls
+  245  cat README.md 
+  246  cd ..
+  247  ls
+  248  cat README.md 
+  249  mkdir files
+  250  ls
+  251  cd files/
+  252  touch answers.txt
+  253  ls -lh
+  254  grep  https://www.constitution.org/usdeclar.txt
+  255  ls
+  256  wget  https://www.constitution.org/usdeclar.txt
+  257  ls 
+  258  wget https://www.usconstitution.net/const.txt
+  259  ls
+  260  wget https://www.gutenberg.org/files/25344/25344-0.txt
+  261  ls
+  262  mv 25344-0.txt scarlet.txt
+  263  ls -lh
+  264  cat >> answers.txt 
+  265  cat answers.txt 
+  266  cd biosys-analytics/
+  267  git pull upstream master
+  268  ls
+  269  cd files
+  270  ls
+  271  cat answers.txt 
+  272  cd biosys-analytics/
+  273  git pull upstream master
+  274  ls
+  275  cd assignments/
+  276  cd ..
+  277  cd files/
+  278  ls
+  279  cat answers.txt 
+  280  wc -h const.txt 
+  281  wc -l const.txt 
+  282  wc -l scarlet.txt 
+  283  wc -l usdeclar.txt 
+  284  cd ..
+  285  find files -type f | wc -l
+  286  find files
+  287  cd files/
+  288  find files/ | wc -l
+  289  find files
+  290  cd biosys-analytics/
+  291  ls
+  292  cd files
+  293  ls
+  294  find . -type f | wc -l
+  295  find . -type f | xargs wc -l
+  296  find . -type f -size +50K
+  297  find . -size +50K
+  298  find . -size +50k
+  299  ls -lh
+  300  md5sum --help
+  301  md5sum . -c
+  302  md5sum -c
+  303  md5sum -c checklist.chk
+  304  cat answers.txt 
+  305  file const.txt 
+  306  pwd
+  307  md5sum -c /files
+  308  md5sum -c files/
+  309  tar -cf - somedir | md5sum
+  310  tar -cf - . | md5sum
+  311  md5sum const.txt 
+  312  df
+  313  df -H
+  314  df -h
+  315  df --help
+  316  df -B -kh
+  317  df -B
+  318  df -k
+  319  df -kh
+  320  df -k 
+  321  ls 
+  322  rm answers.txt 
+  323  ls
+  324  grep --help
+  325  grep -i 'judge' . | wc -lh
+  326  grep -i 'judge' const.txt scarlet.txt usdeclar.txt | wc -l
+  327  grep -n 'judge' .
+  328  grep -n 'judge' scarlet.txt usdeclar.txt const.txt 
+  329  grep -n 'human' scarlet.txt usdeclar.txt const.txt 
+  330  grep -i 'human' const.txt scarlet.txt usdeclar.txt
+  331  grep -R 'human' .
+  332  clear
+  333  pwd
+  334  ls
+  335  grep -R 'human'
+  336  grep -R 'human' | ls
+  337  grep -R 'human' | ls -lh
+  338  grep -ic 'human' | 
+  339  grep -ic 'human' 
+  340  grep -ic 'human' scarlet.txt const.txt usdeclar.txt 
+  341  grep -ic 'judge' scarlet.txt const.txt usdeclar.txt 
+  342  grep -ic 'human' scarlet.txt const.txt usdeclar.txt | ls
+  343  grep -ic 'human' scarlet.txt const.txt usdeclar.txt | awk
+  344  grep -ic 'human' scarlet.txt const.txt usdeclar.txt | - type f -ls
+  345  grep -ic 'human' scarlet.txt const.txt usdeclar.txt | - type f 
+  346  grep -ic 'human' scarlet.txt const.txt usdeclar.txt | -type f 
+  347  grep -ic 'human' scarlet.txt const.txt usdeclar.txt -type f 
+  348  grep -ic 'human' scarlet.txt const.txt usdeclar.txt | type
+  349  grep -ic 'human' scarlet.txt const.txt usdeclar.txt type
+  350  grep -ic 'human' scarlet.txt const.txt usdeclar.txt 
+  351  grep -l 'human' scarlet.txt const.txt usdeclar.txt 
+  352  grep -R 'scarlet' scarlet.txt 
+  353  grep -inR 'scarlet' scarlet.txt 
+  354  clear
+  355  ls
+  356  head -n15 -q *.txt > foo.txt
+  357  ls
+  358  cat foo.txt 
+  359  wc -lh foo.txt 
+  360  wc -l foo.txt 
+  361  head -n15 *.txt > foo 2.txt
+  362  head -n15 *.txt > foo2.txt
+  363  ls
+  364  wc -l foo2.txt 
+  365  cat foo2.txt 
+  366  diff --help
+  367  diff -i foo.txt foo2.txt 
+  368  rm foo.txt 
+  369  rm foo2.txt 
+  370  history > cmds
+  371  touch answers.txt
+  372  ls
+  373  history --help
+  374  history > cmds
+  375  ls
+  376  cat cmds
+  377  ls
+  378  cat foo
+  379  rm foo
+  380  ls
+  381  clear
+  382  ls
+  383  cat answers.txt 
+  384  echo answers.txt 
+  385  vi answers.txt 
+  386  ls
+  387  cat answers.txt 
+  388  cp answers.txt 
+  389  git - A files
+  390  git add files
+  391  git add -A files
+  392  ls
+  393  cd ..
+  394  git add -A files
+  395  git commit -m 'all done' files
+  396  git push
+  397  ls
+  398  cd assignments/
+  399  ls
+  400  cd ..
+  401  cd biosys
+  402  cd biosys-analytics/
+  403  ls
+  404  cd files
+  405  ls
+  406  cat answers.txt 
+  407  git add files
+  408  git --help
+  409  git add -A files
+  410  ls
+  411  cd ..
+  412  git add -A files
+  413  git commit -m 'all done' files
+  414  git commit -m files
+  415  ls
+  416  git add files
+  417  git commit -m 'all done' files
+  418  ls
+  419  git add files 
+  420  git commit files
+  421  git push
+  422  ls
+  423  git commit --help
+  424  ssh qhe0310@hpc.arizona.edu
+  425  cd biosys-analytics/
+  426  ls
+  427  git add .
+  428  git commit -m files
+  429  git push
+  430  git add -A files
+  431  git commit -m 'all done' files
+  432  git push
+  433  git pull upstream master
+  434  ls
+  435  cd fiels
+  436  cd files/
+  437  ls
+  438  cat answers.txt 
+  439  cd ..
+  440  git add files
+  441  git commit -m 'all done' files
+  442  git push
+  443  ls
+  444  cd assignments/
+  445  ls
+  446  cat 01-unix-grad/
+  447  cd 01-unix-grad/
+  448  ls
+  449  cat README.md 
+  450  cd ..
+  451  cd files
+  452  touch answers-grad.txt
+  453  ls
+  454  cd biosys-analytics/
+  455  ls
+  456  git add -a files
+  457  git add -A fiels
+  458  git add -A files
+  459  git commit -m files
+  460  git add files
+  461  git commit files
+  462  git add -A <files>
+  463  git add files
+  464  git commit -m < files >
+  465  git commit -m files
+  466  git add
+  467  git add .
+  468  git commit - m .
+  469  git commit -m files
+  470  git push
+  471  ls
+  472  git add files
+  473  git commit -m files
+  474  git push
+  475  cd biosys-analytics/
+  476  ls
+  477  git add -A files
+  478  git commit 'all done' files
+  479  git commit -m 'all done' files
+  480  git push
+  481  git commit -am done
+  482  git push
+  483  ls
+  484  jcd ..
+  485  cd ..
+  486  ls
+  487  mv biosys-analytics/ hl-biosys-analytics
+  488  git clone Protocol 
+  489  •Actin, flag, p53, pRb probe for 1 hr at room temp
+  490  •Flag, HA probe for overnight at 4C
+  491  •secondary antibody for 1hr at room temp
+  492  Expected result: ha and flag tag appear at HPV18 E6 E7; HA tag appear at E7 ttl ; flag tag appear at e6 ttl ; rb and p53 will show different signal of band at each sample. 
+  493   
+  494  Lane 1: E6TTL
+  495  Lane 2: E7 TTL
+  496  Lane 3: pTetone vector
+  497  Lane 3: HPV18 E6E7
+  498  Lane 5: GFP
+  499  Actin 
+  500   
+  501  Rb 
+  502   
+  503  P53
+  504   
+  505  Flag
+  506   
+  507  HA
+  508   
+  509  Result : No flag and HA probe for the protein samples indicate no E6 and E7 protein get expressed. 
+  510  Actin (positive control) appeared in each sample and has the different signal bands indicated that the samples loaded at different concentration.  Then the result of actin and p53 is insignificant because the comparison among samples should be at same concentration.
+  511  git clone git@github.com:heqianying/biosys-analytics.git
+  512  cd biosys-analytics/
+  513  ls
+  514  grep upstream lectures/01-intro/intro.md 
+  515  git remote add upstream https://github.com/hurwitzlab/biosys-analytics.git\
+  516  git remote add upstream https://github.com/hurwitzlab/biosys-analytics.git
+  517  git pull upstream
+  518  ls
+  519  git pull upstream master
+  520  cd assignments/01-unix
+  521  ls
+  522  mv ~/hl-biosys-analytics/files .
+  523  ls
+  524  ls files/
+  525  git add -A files/
+  526  git commit -m 'all done' files/
+  527  git push
+  528  cd ..
+  529  git pull upstream master
+  530  git add files
+  531  pwd
+  532  ls
+  533  cd lectures/
+  534  ls
+  535  cd 04-shell-scripting/
+  536  ls
+  537  cat 04-shell-scripting.pdf 
+  538  cd ..
+  539  ls
+  540  cd 04-shell-scripting/
+  541  ls
+  542  xdg-open 04-shell-scripting.pdf 
+  543  pwd
+  544  cd biosys-analytics/
+  545  git pull upstream master
+  546  git add files
+  547  ls
+  548  cd assignments/
+  549  ls
+  550  cd 01-unix
+  551  ls
+  552  git add files
+  553  git commit -m 'all done' files
+  554  git push
+  555  cd ..
+  556  ls
+  557  cd 01-unix
+  558  ls
+  559  cd files/
+  560  ls
+  561  cat answers-grad.txt 
+  562  rm answers-grad.txt 
+  563  cd ..
+  564  ls
+  565  cd files/
+  566  ls
+  567  cat answers.txt 
+  568  cd ..
+  569  git add files
+  570  git commit -m 'all done' files
+  571  git push
+  572  ls
+  573  cd files
+  574  ls
+  575  cd ..
+  576  ls
+  577  cd ..
+  578  cd 01-unix-grad/
+  579  mkdir files
+  580  ls
+  581  git --help
+  582  cd
+  583  ls
+  584  cd biosys-analytics/
+  585  ls
+  586  cd lectures/
+  587  ls
+  588  cd 04-shell-scripting/
+  589  ls
+  590  explorer 04-shell-scripting.pdf 
+  591  cd ..
+  592  cd 
+  593  cd biosys-analytics/
+  594  ls
+  595  cd assignments/
+  596  ls
+  597  cd 01-unix
+  598  cd biosys-analytics/
+  599  ls
+  600  cd assignments/
+  601  ls
+  602  cd 01-unix
+  603  ls
+  604  cd files/
+  605  ls
+  606  cd 
+  607  git pull upstream master
+  608  cd biosys-analytics/
+  609  git pull upstream master
+  610  ls
+  611  cd assignments/
+  612  ls
+  613  cd 01-unix
+  614  cd ..
+  615  cd 01-unix-grad/
+  616  ls
+  617  cd files/
+  618  ls
+  619  cd ..
+  620  ls
+  621  cd assignments/
+  622  ls
+  623  cd 01-unix
+  624  ls
+  625  cd files
+  626  ls
+  627  cd ..
+  628  ls
+  629  cd 01-unix-grad/
+  630  ls
+  631  cd files/
+  632  pwd
+  633  cd ..
+  634  cd 01-unix
+  635  ls
+  636  cd files/
+  637  ls
+  638  cp const.txt scarlet.txt usdeclar.txt /home/u9/qhe0310/biosys-analytics/assignments/01-unix-grad/files
+  639  cd ..
+  640  ls
+  641  cd ..
+  642  cd 01-unix-grad/
+  643  ls
+  644  cd files/
+  645  ls
+  646  cat usdeclar.txt 
+  647  grep -l "c" "s" .
+  648  ls
+  649  grep -l "c" "s" *
+  650  grep -o "c" "s" . 
+  651  grep -o "c" "s" *
+  652  clear
+  653  ls
+  654  grep -l "c" "s" *
+  655  grep -l "c" "s" const.txt scarlet.txt usdeclar.txt 
+  656  grep -e exp 'c' 's' *
+  657  grep -e exp 'c' 's' * | wc - w
+  658  grep '^c' '^s' * | wc -w
+  659  wc -w const.txt 
+  660  grep -c 'c' 's' 
+  661  grep -c 'c''s' 
+  662  grep -l [cs]*
+  663  grep -l [cs] *
+  664  find . -name 'c''s'
+  665  find -name 'c''s' .
+  666  find -name 'c''s' *
+  667  find . -name "*c*" "*s*"
+  668  find --help
+  669  find -name "c"
+  670  ls
+  671  find -name 'c'
+  672  find -name 'c' .
+  673  find c const.txt 
+  674  ls
+  675  ls --help
+  676  ls c8
+  677  ls c*
+  678  ls c* s*
+  679  ls c* s* | wc -w
+  680  find c* s* | wc -w
+  681  wc --help
+  682  find c* s* | wc -w
+  683  find / -type f c* s* | wc -w
+  684  find / -name c* s* | wc -w
+  685  find / -name c* s* | wc 
+  686  clear
+  687  find / -name c* s* | wc -l
+  688  find c* s* | wc -l
+  689  find c* s*
+  690  grep c* s*
+  691  find c* s* | wc -c
+  692  wc --help
+  693  find c* s* | wc -w --files0-from=-
+  694  wc -w c* s*
+  695  grep ^Article
+  696  grep '^Article'
+  697  grep --help
+  698  grep '^Article' .
+  699  grep '^Article'*
+  700  grep '^Article' scarlet.txt 
+  701  grep '^Article' const.txt 
+  702  find . -type f | grep '^Article'
+  703  grep '^Article' *
+  704  grep '^Article\s*' *
+  705  grep -vP '\s' const.txt 
+  706  grep -cvP '\s' const.txt 
+  707  grep -cvP '^a' const.txt 
+  708  grep -cvP '^a''^e' const.txt 
+  709  grep -c '^[aeiou'
+  710  grep -c '^[aeiou]'
+  711  grep -c '^[aeiou]' scarlet.txt 
+  712  grep -ic '^[aeiou]' scarlet.txt |
+  713  grep -ic '^[aeiou]' scarlet.txt 
+  714  grep -ic '^[aeiou]' scarlet.txt | wc -w
+  715  wc -il '^[aeiou]' scarlet.txt 
+  716  wc -l '^[aeiou]' scarlet.txt 
+  717  grep -ic '^[aeiou]' scarlet.txt | wc -l 
+  718  grep -ic '^[aeiou]' scarlet.txt | wc -l scarlet.txt 
+  719  cut --help
+  720  grep -ic '^[aeiou]' scarlet.txt | cut -c
+  721  grep -ic '^[aeiou]' scarlet.txt | cut -cl
+  722  <file cut -cl | grep -ic '^[aeiou]' scarlet.txt 
+  723  ls
+  724  < file cut -cl | grep -ic '^[aeiou]' scarlet.txt 
+  725  < scarlet.txt cut -cl | grep -ic '^[aeiou]' scarlet.txt 
+  726  cut -cl | grep -ic '^[aeiou]' scarlet.txt | sort | uniq -c 
+  727  ls --help
+  728  wc --help
+  729  wc -w scarlet.txt 
+  730  wc -w '^[aeiou]' scarlet.txt 
+  731  grep --help
+  732  grep -ic '^[aeiou]' scarlet.txt 
+  733  grep -iBc '^[aeiou]' scarlet.txt 
+  734  grep -iB '^[aeiou]' scarlet.txt 
+  735  grep -iC '^[aeiou]' scarlet.txt 
+  736  grep -C '^[aeiou]' scarlet.txt 
+  737  grep -in '^[aeiou]' scarlet.txt 
+  738  clear
+  739  wc -l [aeiou]* scarlet.txt 
+  740  wc -l a* scarlet.txt 
+  741  wc -l '^a' scarlet.txt 
+  742  wc -l ^a scarlet.txt 
+  743  wc -l scarlet.txt ^a  
+  744  grep -ic '^[aeiou]' scarlet.txt 
+  745  awk grep -ic '^[aeiou]' scarlet.txt 
+  746  awk | grep -ic '^[aeiou]' scarlet.txt 
+  747  awk --help
+  748  grep -ic '^[aeiou]' scarlet.txt | tee /dev/tty | wc -l
+  749  awk '/a/{print NR}' scarlet.txt 
+  750  clear
+  751  grep -in '^[aeiou]' scarlet.txt 
+  752  clear
+  753  grep -in '^[aeiou]' scarlet.txt 
+  754  clear
+  755  grep -ci '^[aeiou]' scarlet.txt 
+  756  grep -ci '^[aeiou]' scarlet.txt | cut -d : -f1 
+  757  grep -ci '^[aeiou]' scarlet.txt | awk '{print $1}'
+  758  grep -ci '^[aeiou]' scarlet.txt | sed
+  759  grep -ci '^[aeiou]' scarlet.txt | sed [aeiou]
+  760  grep -ci '^[aeiou]' scarlet.txt | sed -e [aeiou]
+  761  grep -li '^[aeiou]' scarlet.txt | wc -l
+  762  grep -o '^[aeiou]' scarlet.txt | wc -l
+  763  grep -ci '^a'
+  764  grep -ci '^a' scarlet.txt 
+  765  grep -ci '^a' scarlet.txt |  gre
+  766  grep -ci -E '^[aeiou]' scarlet.txt
+  767  grep -ci -E '^[aeiou]{5}' scarlet.txt
+  768  grep -ci '^[aeiou]{5}' scarlet.txt
+  769  grep -ei '^[aeiou]' scarlet.txt
+  770  clear
+  771  cd biosys-analytics/
+  772  cd as
+  773  cd assignments/
+  774  cd 01-unix-grad/
+  775  cd files/
+  776  grep -i '^[aeiou]' scarlet.txt | wc -l
+  777  grep -ic '^[aeiou]' scarlet.txt | sort -n
+  778  grep -ic '^[aeiou]' scarlet.txt | tr 
+  779  tr --help
+  780  grep -ic '^[aeiou]' scarlet.txt | tr ':' ' ' | sort -n -k2
+  781  grep -ic '^[aeiou]' scarlet.txt | sort -n -k2
+  782  sort --help
+  783  grep -in '^[aeiou]' scarlet.txt | wc -l
+  784  awk '/^[aeiouAEIOU]/' {print FNR} scarlet.txt 
+  785  grep -in '^[aeiou]' scarlet.txt 
+  786  grep -in '^[aeiou]' scarlet.txt | cut -f1 -d
+  787  grep -in '^[aeiou]' scarlet.txt | cut -f1 -d:
+  788  grep -in '^[aeiou]' scarlet.txt | cut -f1,2 -d:
+  789  grep -in '^[aeiou]' scarlet.txt | cut -f2 -d:
+  790* 
+  791  grep -in '^[aeiou]' scarlet.txt | cut -f2 -d: | ls -l
+  792  wc --help
+  793  grep -in '^[aeiou]' scarlet.txt | cut -f2 -d: 
+  794  grep -in '^[aeiou]' scarlet.txt | cut -f2 -d: | sort | uniq -c
+  795  grep -ic '^[aeiou]' scarlet.txt | cut -f2 -d: | sort | uniq -c
+  796  grep -ic '^[aeiou]' scarlet.txt | cut -f2 -d: | uniq -c
+  797  grep -in '^[aeiou]' scarlet.txt | cut -f2 -d: | uniq -c
+  798  clear
+  799  grep -io '^[aeiou]' scarlet.txt
+  800  grep -io '^[aeiou]' scarlet.txt | wc -w
+  801  grep -io '^[aeiou]' scarlet.txt | wc -l
+  802  grep -io '^[aeiou]' scarlet.txt | uniq -c
+  803  grep -ioc '^[aeiou]' scarlet.txt | uniq -c
+  804  grep -ioc '^[aeiou]' scarlet.txt 
+  805  grep -io '^[aeiou]' scarlet.txt | sort | -c 
+  806  grep -io '^[aeiou]' scarlet.txt | sort | uniq -c
+  807  grep -ic '^[aeiou]' scarlet.txt | sort | uniq -c
+  808  grep -io '^[aeiou]' scarlet.txt | uniq -c
+  809  grep -io '^[aeiou]' scarlet.txt | sort | uniq -c
+  810  ls
+  811  history > cmds

@@ -1,0 +1,27 @@
+wc -w c* s*
+  7652 const.txt
+ 86895 scarlet.txt
+ 94547 total
+
+
+grep '^Article\s*' *
+const.txt:Article 1.
+const.txt:Article 2.
+const.txt:Article 3.
+const.txt:Article 4.
+const.txt:Article 5.
+const.txt:Article 6.
+const.txt:Article 7.
+const.txt:Article shall not apply to any person holding the office of President, when this
+const.txt:Article was proposed by the Congress, and shall not prevent any person who may
+
+ grep -cvP '\s' const.txt
+185
+
+ grep -io '^[aeiou]' scarlet.txt | sort | uniq -c
+    633 a
+     59 A
+    199 e
+     10 E
+    348 i
+     88 I 
