@@ -2,7 +2,7 @@
 FILE=$1
 NUM_LINES=$2
 if [[ $# -eq 0 ]]; then
-echo " Usage: head.sh FILE_NUMM_LINES"
+echo "Usage: head.sh FILE_NUMM_LINES"
 exit 1
 
 
