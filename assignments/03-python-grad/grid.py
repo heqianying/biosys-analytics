@@ -18,7 +18,7 @@ def main():
         sys.exit(1)
 
     i= int (NUM[0])
-    if not 1 < i < 10:
+    while i < 2 or i > 9:
         print('NUM ({}) must be between 1 and 9'.format(i))
         sys.exit(1)
     
